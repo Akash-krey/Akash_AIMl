@@ -1,0 +1,18 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+int main() {
+int month;
+printf("enter the month number :");
+scanf("%d",&month);
+if(month<=12)
+{
+    printf("Enterd number is month");
+}
+else
+{ 
+    printf("entered number is not month");
+    }
+
+
+    return 0;
+}

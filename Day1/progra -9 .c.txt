@@ -1,0 +1,16 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+int main() {
+int Num;
+printf("enter the number :");
+scanf("%d",&Num);
+if (Num%2==0)
+{
+    printf("the enter digit is even");
+}
+else
+{
+    printf("The enter digit is odd");
+}
+    return 0;
+}

@@ -1,0 +1,18 @@
+write a c program to print even numbers fr om n to 1
+write a c program to read amout as inpu from the use and print number of note required in indian currency demension 
+write a c  program to print multiplication table
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+    int Num;
+    printf("Enter the number : ");
+    scanf("%d",&Num);
+    for(int i=1;i<=10;i++)
+    {
+    printf("%d x %d = %d\n",Num,i,Num*i);}
+    return 0;
+}
+write a c program to print the reversed mulptiplicatio table of n 
+write a c program to print the mutiplication tables from 1 to n 
+write a c program to print the reversd multipicatione table 1 to n 

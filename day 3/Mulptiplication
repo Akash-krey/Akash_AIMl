@@ -1,0 +1,13 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+    void Mul(int Num1,int Num2)
+    {
+        printf("Multiplication of %d & %d is : %d \n",Num1,Num2,(Num1*Num2));
+    }
+    Mul(12,9);
+    Mul(49,49);
+    Mul(1,1);
+    Mul(2,6);
+}

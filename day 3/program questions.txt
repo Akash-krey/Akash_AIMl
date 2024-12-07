@@ -15,4 +15,4 @@ int main() {
 }
 write a c program to print the reversed mulptiplicatio table of n 
 write a c program to print the mutiplication tables from 1 to n 
-write a c program to print the reversd multipicatione table 1 to n 
+write a c program to print the reversd multiplication table 1 to n 

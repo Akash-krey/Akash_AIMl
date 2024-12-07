@@ -1,0 +1,20 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+    void Display ()
+    { printf("c \n");
+    printf("c++ \n");
+     printf("java \n");
+     printf(" python \n");
+     printf("SQL \n");
+     printf("JAVA SCRIPT  \n");
+    }
+    Display();
+    Display();
+    Display();
+    Display();
+    Display();
+    Display();
+    
+}
